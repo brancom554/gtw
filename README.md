@@ -1,1 +1,1 @@
-# gtw
+# owode-gateway
